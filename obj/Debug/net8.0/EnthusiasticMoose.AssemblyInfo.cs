@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EnthusiasticMoose")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3f24ad7f436c2ad24e22aa2768031c58902d861")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82988da2f712477f87423b31bb53b4e8bb8da031")]
 [assembly: System.Reflection.AssemblyProductAttribute("EnthusiasticMoose")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EnthusiasticMoose")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
